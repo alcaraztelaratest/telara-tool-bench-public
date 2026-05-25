@@ -1,1 +1,3 @@
-Benchmark content
+# Telara tool benchmark fixture
+
+Safe public benchmark fixture.
